@@ -1,5 +1,5 @@
 # Twitter
-Backup copy of pages and posts from the [Twitter](https://twitter.com/ZaryaTheLaika) account.
+Backup copy of tweets from the [Twitter](https://twitter.com/ZaryaTheLaika) account.
 
 Due to copyright concerns, replies to other people's posts are not archived on GitHub nor [GitLab](https://gitlab.com/ZaryaTheLaika/Twitter). Please use the [Wayback Machine](https://web.archive.org/web/*/https://twitter.com/ZaryaTheLaika*).
 ## Support
