@@ -1,7 +1,7 @@
 # Twitter
 Backup copy of tweets from the [Twitter](https://twitter.com/ZaryaTheLaika) account.
 
-Due to copyright concerns, replies to other people's posts are not archived on GitHub nor [GitLab](https://gitlab.com/ZaryaTheLaika/Twitter). Please use the [Wayback Machine](https://web.archive.org/web/*/https://twitter.com/ZaryaTheLaika*).
+Due to copyright concerns, replies to other people's tweets are not archived on GitHub nor [GitLab](https://gitlab.com/ZaryaTheLaika/Twitter). Please use the [Wayback Machine](https://web.archive.org/web/*/https://twitter.com/ZaryaTheLaika*).
 ## Support
 If you enjoy the blog and wish to see continous updates, please consider contributing to the [puppy fund](https://paypal.me/bglamours) via PayPal.
 ## License and Copyright
